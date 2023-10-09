@@ -212,10 +212,13 @@ section{
 }
 
 /* Proximamente */
+#coming{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
 .coming-container{
     display: grid;
-   padding-left: 1rem;
-    padding-right: 1rem;
+ 
     gap: 1rem;
     max-width: 1200px;
     margin:auto;
