@@ -212,10 +212,7 @@ section{
 }
 
 /* Proximamente */
-#coming{
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
+
 .coming-container{
     display: grid;
  
@@ -318,6 +315,10 @@ section{
     }
 }
 @media (max-width: 774px){
+  #coming{
+      padding-left: 1rem;
+    padding-right: 1rem;
+  }
     header{
         padding: 12px 4%;
     }
